@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "P-0001",
+      "name": "product 21",
+      "date": "2002-02-02",
+      "quantity": 1,
+      "type": {
+        "id": 2,
+        "name": "gfh"
+      }
+    },
+    {
+      "id": 2,
+      "code": "P-0002",
+      "name": "product 2",
+      "date": "2002-02-02",
+      "quantity": 1,
+      "type": {
+        "id": 2,
+        "name": "gfh"
+      }
+    },
+    {
+      "id": 3,
+      "code": "P-0003",
+      "name": "product 3",
+      "date": "2002-02-02",
+      "quantity": 2,
+      "type": {
+        "id": 2,
+        "name": "gfh"
+      }
+    },
+    {
+      "id": 4,
+      "code": "P-0004",
+      "name": "product 4",
+      "date": "2002-02-02",
+      "quantity": 3,
+      "type": {
+        "id": 3,
+        "name": "xyz"
+      }
+    },
+    {
+      "id": 5,
+      "code": "P-0005",
+      "name": "product 5",
+      "date": "2002-02-02",
+      "quantity": 2,
+      "type": {
+        "id": 2,
+        "name": "gfh"
+      }
+    },
+    {
+      "id": 6,
+      "code": "P-0006",
+      "name": "product 6",
+      "date": "2002-02-02",
+      "quantity": 20,
+      "type": {
+        "id": 1,
+        "name": "abc"
+      }
+    },
+    {
+      "id": 7,
+      "code": "P-0012",
+      "name": "My tom",
+      "date": "2023-09-01",
+      "quantity": 1,
+      "type": {
+        "id": 1,
+        "name": "abc"
+      }
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "name": "abc"
+    },
+    {
+      "id": 3,
+      "name": "xyz"
+    },
+    {
+      "id": 2,
+      "name": "gfh"
+    },
+    {
+      "id": 4,
+      "name": "qwe"
+    }
+  ]
+}
